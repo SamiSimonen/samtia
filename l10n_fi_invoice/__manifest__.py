@@ -21,7 +21,7 @@
 
 # noinspection PyStatementEffect
 {
-    "name": "Finnish Invoice",
+    "name": "Lasku",
     "version": "11.0.1.0.0",
     "author": "Avoin.Systems",
     "category": "Localization",
